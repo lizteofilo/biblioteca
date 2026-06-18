@@ -1,0 +1,4 @@
+Relatorios atualizados
+Livros cadastrados: 7
+Usuarios cadastrados: 4
+Emprestimos: 9

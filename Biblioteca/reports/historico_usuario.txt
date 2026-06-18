@@ -1,0 +1,20 @@
+
+===== HISTORICO =====
+Matricula: 1
+Nome: a
+Curso: a
+
+Codigo livro: 1
+Titulo: p
+Retirada: 15/06/2026
+Devolucao: ainda nao devolvido
+
+Codigo livro: 2
+Titulo: t
+Retirada: 15/06/2026
+Devolucao: 18/06/2026
+
+Codigo livro: 3
+Titulo: u
+Retirada: 15/06/2026
+Devolucao: ainda nao devolvido

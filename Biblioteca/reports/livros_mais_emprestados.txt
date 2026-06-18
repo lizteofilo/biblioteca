@@ -1,0 +1,17 @@
+
+===== LIVROS MAIS EMPRESTADOS =====
+
+Codigo: 6
+
+Titulo: q
+Emprestimos: 2
+
+Codigo: 7
+
+Titulo: p
+Emprestimos: 2
+
+Codigo: 1
+
+Titulo: p
+Emprestimos: 1
